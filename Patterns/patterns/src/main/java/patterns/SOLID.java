@@ -1,3 +1,4 @@
+package patterns;
 // Based on https://www.youtube.com/watch?v=TxZwqVTaCmA and Tut. #7
 public class SOLID {
     public static void main(String[] args) {
