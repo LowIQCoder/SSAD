@@ -10,10 +10,10 @@ package patterns;
  *         
  * 
  */
- public class Strategy {
+public class Strategy {
     public static void main(String[] args) {
-        
+      
     }
- }
+}
 
 
