@@ -1,3 +1,4 @@
+// Marsel Berheev
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -19,7 +20,7 @@ public class lc {
                 }
             }
         }
-        graph.DFS();
+        graph.MarselBerheev_dfs(0);
         scanner.close();
     }
 }
@@ -55,8 +56,17 @@ class Graph<T extends Comparable<T>> {
     public void removeEdge(Vertex<T> v1, Vertex<T> v2) {
         return;
     }
-    public void DFS() {
-
+    public void MarselBerheev_dfs(T start) {
+        Vertex<T> strt = null;
+        for (int i = 0; i < vertices.size(); i++) {
+            if (vertices.get(i).getKey() == strt) {
+                strt = vertices.get(i);
+            }
+        }
+        if (strt == null) {
+            System.err.println("No edge exists");
+        }
+        
     }
 }
 class Edge<T extends Comparable<T>> {
