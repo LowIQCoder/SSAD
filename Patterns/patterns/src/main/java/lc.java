@@ -1,4 +1,5 @@
 // Marsel Berheev
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class lc {
@@ -16,17 +17,24 @@ public class lc {
                 }
             }
         }
-        graph.MarselBerheev_dfs(0);
+        ArrayList <Integer> path = graph.MarselBerheev_dfs(1, n);
+        if (path.size() != n) {
+            System.out.println("NO");
+            scanner.close();
+            return;
+        }
+        System.out.println("YES");
         scanner.close();
     }
 }
 
-class Graph<T extends Comparable<T>> {
+class Graph<T extends Integer> {
     Vertex<T> rootVertex;
     public void addVertex(T key) {
         Vertex<T> newVertex = new Vertex<>(key);
         if (this.rootVertex == null) {
             this.rootVertex = newVertex;
+            return;
         }
 
         this.rootVertex.prevVertex = newVertex;
@@ -44,17 +52,44 @@ class Graph<T extends Comparable<T>> {
             if (next.getKey() == k2) {
                 v2 = next;
             }
+            next = next.nextVertex;
         }
 
         Edge<T> e = new Edge<T>(v1, v2);
         v1.addEdge(e);
         v2.addEdge(e);
     }
-    public void MarselBerheev_dfs(T start) {
-                
+    public void MarselBerheev_dfs_rec(T start, boolean isVisited[], ArrayList<Integer> visited) {
+        isVisited[start] = true;
+        visited.add(start);
+        // Looking for vertex
+        Vertex<T> next = this.rootVertex;
+        Vertex<T> v1 = null;
+        while (next != null) {
+            if (next.getKey() == start) {
+                v1 = next;
+            }
+            next = next.nextVertex;
+        }
+
+        Edge<T> curEdge = v1.rootEdge;
+        while (curEdge.nextEdge != null) {
+            T n = curEdge.to.getKey();
+
+            if (!isVisited[n]) {    
+                MarselBerheev_dfs_rec(n, isVisited, visited);
+            }
+            curEdge = curEdge.nextEdge;
+        }
+    }
+    public ArrayList<Integer> MarselBerheev_dfs(T start, int numOfVertices) {
+        boolean isVisited[] = new boolean[numOfVertices];
+        ArrayList<Integer> visited = new ArrayList<>();
+        MarselBerheev_dfs_rec(start, isVisited, visited);
+        return visited;
     }
 }
-class Edge<T extends Comparable<T>> {
+class Edge<T extends Integer> {
     Vertex<T> from;
     Vertex<T> to;
     Edge<T> nextEdge;
@@ -64,7 +99,7 @@ class Edge<T extends Comparable<T>> {
         this.to = v2;
     }
 }
-class Vertex<T extends Comparable<T>> {
+class Vertex<T extends Integer> {
     private T value;
     Edge<T> rootEdge;
     Vertex<T> nextVertex;
@@ -75,6 +110,7 @@ class Vertex<T extends Comparable<T>> {
     public void addEdge(Edge<T> e) {
         if (this.rootEdge == null) {
             this.rootEdge = e;
+            return;
         }
 
         this.rootEdge.prevEdge = e;
