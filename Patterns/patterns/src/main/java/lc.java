@@ -7,12 +7,11 @@ public class lc {
         int n = scanner.nextInt();
         Graph<Integer> graph = new Graph<Integer>();
         for (int i = 0; i < n; i++) {
-            Vertex<Integer> v = new Vertex<Integer>(i);
+            graph.addVertex(i);
         }
         for (int i = 0; i < n; i++) {
             for (int q = 0; q < n; q++) {
-                Boolean wayExists = Boolean.parseBoolean(scanner.next());
-                if (wayExists) {
+                if (scanner.nextInt() == 1) {
                     graph.addEdge(i, q);
                 }
             }
