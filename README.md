@@ -69,7 +69,7 @@ Here's why:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Run API
-Get reposetory
+Get repository
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature_refactor_backend
 ```
@@ -94,7 +94,7 @@ Run API
 python -m src.backend.api
 ```
 ## Run frontend
-Get reposetory
+Get repository
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature/main-page
 ```
