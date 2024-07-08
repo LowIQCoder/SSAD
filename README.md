@@ -60,7 +60,7 @@ Here's why:
 
 ### Built With
 
-* ![contributors-shield][https://nextjs.org]
+* [![next-shield][https://nextjs.org]]
 * FastAPI
 * Postgres
 
