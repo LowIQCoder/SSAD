@@ -61,7 +61,7 @@ Here's why:
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![FastAPI][FastAPI]][FasyAPI-url]
+* [![FastAPI][FastAPI]][FastAPI-url]
 * [![Postgres][Postgres]][Postgres-url]
 * [![Age][Age]][Age-url]
 
