@@ -210,6 +210,7 @@ Project Link: https://gitlab.pg.innopolis.university/team20/llm-rosalind
 ##   Acknowledgement
 
 * [FastAPI](https://fastapi.tiangolo.com)
+* [Apache AGE](https://age.apache.org)
 * [Best Chanel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
