@@ -120,35 +120,35 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-1. Analysis
+1. Analysis <span style="color:green">READY text</span>
  * Initial meeting with the customer
  * Collecting requirements
  * Analyzing the problem
-2. Design
+2. Design READY
  * Designing the initial GUI
  * Designing API endpoint design
  * Designing EDR
  * Designing ML pipeline
-3. MVP-v0
+3. MVP-v0 READY
  * Adjusting GUI to the customer's feedback
  * Implementing the main page
-4. MVP-v1
+4. MVP-v1 READY
  * Adjusting GUI to the customer's feedback
  * Adjusting the main page to the customer's feedback
  * Implementing course preview page
  * Implementing tree view page
  * Implementing theory view page
-5. MVP-v2
+5. MVP-v2 IN PROCESS
  * Implementing task view page
  * Implementing user progress view
  * Implementing course addition view
  * Implementing theory editing view
  * Conducting a comprehensive code review
-6. MVP-v3
+6. MVP-v3 IN PROCESS
  * Integrating with InnoDataHub
  * Implementing tree editing view
  * Implementing task editing view
-7. MVP-v4
+7. MVP-v4 IN PROCESS
  * Assembling AES projects into InnoDataHub
  * Fixing critical bugs
  * Preparing for the demo day
