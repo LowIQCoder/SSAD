@@ -60,7 +60,7 @@ Here's why:
 
 ### Built With
 
-* NextJS
+* ![contributors-shield][https://nextjs.org]
 * FastAPI
 * Postgres
 
@@ -209,3 +209,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [contributors-shield]: https://img.shields.io/badge/Contrbutors-10-green?style=flat&link=https%3A%2F%2Fgitlab.pg.innopolis.university%2Fteam20%2Fllm-rosalind
 [issues-shield]: https://img.shields.io/badge/Issues-20-orange?style=flat
 [issues-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues
+
+[pg-shield]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[next-shield]: https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge
+[fast-shield]: https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=%23FFFFFF&link=https%3A%2F%2Ffastapi.tiangolo.com
