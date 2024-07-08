@@ -171,6 +171,16 @@ See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
+## Contributing
+
+If you have some ideas on how to make this project better, fork repo and create a pull request
+
+```sh
+git checkout -b feature_cool_feature
+git commit -m 'Add cool feature'
+git push origin feature_cool_feature
+```
+
 <!-- LICENSE -->
 ## License
 
