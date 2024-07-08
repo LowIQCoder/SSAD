@@ -202,6 +202,8 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 * Andrey Palaev - a.palaev@innopolis.university
 * Michail Rudakov - m.rudakov@innopolis.university
 
+Project Link: https://gitlab.pg.innopolis.university/team20/llm-rosalind
+
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- ACKNOWLEDGEMENTS -->
