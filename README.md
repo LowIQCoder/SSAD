@@ -211,11 +211,11 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [issues-shield]: https://img.shields.io/badge/Issues-20-orange?style=flat
 [issues-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/Next.JS-%23000000?style=for-the-badge&logo=next.js
 [Next-url]: https://nextjs.org/
 [Postgres]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org
-[FastAPI]: https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=%23FFFFFF&link=https%3A%2F%2Ffastapi.tiangolo.com
+[FastAPI]: https://img.shields.io/badge/Next.JS-%23000000?style=for-the-badge&logo=next.js
 [FastAPI-url]: https://fastapi.tiangolo.com
 [Age]: https://img.shields.io/badge/Apache_AGE-%236d1fdd?style=for-the-badge&logo=apache
 [Age-url]: https://age.apache.org
