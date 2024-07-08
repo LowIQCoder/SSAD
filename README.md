@@ -1,23 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![Issues][issues-shield]][issues-url]
@@ -96,7 +79,7 @@ Here's why:
 ## Run API
 Get reposetory
 ```sh
-git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -brabch feature_refactor_backend
+git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature/main-page
 ```
 Setup envoirement
 ```sh
@@ -121,7 +104,7 @@ python -m src.backend.api
 ## Run frontend
 Get reposetory
 ```sh
-git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -brabch main-page
+git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature/main-page
 ```
 Setup envoirement
 ```sh
@@ -156,15 +139,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
+Dinislam Gabitov - d.gabitov@innopolis.university
+Egor Chernobrovkin - e.chernobrovkin@innopolis.university
 Marsel Berheev - m.berheev@innopolis.university
+Nikita Stepankov - n.stepankov@innopolis.university
+Nikita Tiurkov - n.tiurkov@innopolis.university
+Oleg Shchendrigin - o.shchendrigin@innopolis.university
+Valeriia Neganova - v.neganova@innopolis.university
+Vladimir Bazilevich - v.bazilevich@innopolis.university
+Andrey Palaev - a.palaev@innopolis.university
+Michail Rudakov - m.rudakov@innopolis.university
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## acknowledgement
 
 * [FastAPI](https://fastapi.tiangolo.com)
 * [Best Chanel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
