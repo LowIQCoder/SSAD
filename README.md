@@ -121,7 +121,7 @@ npm run dev
 ## Roadmap
 
 1. Analysis
- [ ] - Initial meeting with the customer
+ [] - Initial meeting with the customer
  * Collecting requirements
  * Analyzing the problem
 2. Design READY
