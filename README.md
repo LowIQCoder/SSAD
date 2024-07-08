@@ -170,8 +170,6 @@ Marsel Berheev - m.berheev@innopolis.university
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [FastAPI](https://fastapi.tiangolo.com)
 * [Best Chanel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
