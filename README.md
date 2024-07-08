@@ -15,7 +15,7 @@
   <h3 align="center">LLM Rosalind</h3>
 
   <p align="center">
-    New way of education!
+    A new way to learn!
   </p>
 </div>
 
