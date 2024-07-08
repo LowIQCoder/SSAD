@@ -120,7 +120,7 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-1. Analysis <span style="color:green">READY text</span>
+1. Analysis <span style="color:green"> READY</span>
  * Initial meeting with the customer
  * Collecting requirements
  * Analyzing the problem
