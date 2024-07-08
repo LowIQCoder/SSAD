@@ -120,10 +120,14 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-1. Analysis
- 🟢 Initial meeting with the customer
- 🟢 Collecting requirements
- 🟢 Analyzing the problem
+<ul>
+<li>1. Analysis
+  <ul>
+  <li>🟢 Initial meeting with the customer</li>
+  <li>🟢 Collecting requirements</li>
+  <li>🟢 Analyzing the problem</li>
+  </ul>
+</li>
 2. Design 
  🟢 Designing the initial GUI
  🟢 Designing API endpoint design
@@ -152,6 +156,7 @@ npm run dev
  🟠 Assembling AES projects into InnoDataHub
  🟠 Fixing critical bugs
  🟠 Preparing for the demo day
+</ul>
 
 See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues) for a full list of proposed features (and known issues).
 
