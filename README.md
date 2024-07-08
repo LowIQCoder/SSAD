@@ -71,7 +71,7 @@ Here's why:
 ## Run API
 Get repository
 ```sh
-git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature_refactor_backend
+git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
 Setup environment
 ```sh
@@ -91,12 +91,12 @@ STATIC_FILES_DOWNLOAD_PATH=\path\to\folder
 ```
 Run API
 ```sh
-python -m src.backend.api
+python3 -m src.backend.api
 ```
 ## Run frontend
 Get repository
 ```sh
-git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature/main-page
+git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
 Setup environment
 ```sh
