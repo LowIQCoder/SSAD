@@ -106,7 +106,6 @@ Run frontend
 ```sh
 npm run dev
 ```
-Now you can use frontend on http://localhost:3000
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
