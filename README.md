@@ -46,8 +46,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -62,18 +60,13 @@ Here's why:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 * NextJS
 * FastAPI
 * Postgres
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## Run API
 Get reposetory
@@ -113,7 +106,6 @@ Run frontend
 ```sh
 npm run dev
 ```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,18 +171,16 @@ See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
+
 Dinislam Gabitov - d.gabitov@innopolis.university
 Egor Chernobrovkin - e.chernobrovkin@innopolis.university
 Marsel Berheev - m.berheev@innopolis.university
@@ -204,24 +194,19 @@ Michail Rudakov - m.rudakov@innopolis.university
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## acknowledgement
+<!-- ACKNOWLEDGEMENTS -->
+##   Acknowledgement
 
 * [FastAPI](https://fastapi.tiangolo.com)
 * [Best Chanel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-url]: LICENSE.md
-[contributors-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/graphs/feature_refactor_backend?ref_type=heads
 [product_screenshot]: images/llmrosalind.png
+[license-url]: LICENSE.md
 [license-shield]: https://img.shields.io/badge/License-MIT-blue?style=flat
+[contributors-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/graphs/feature_refactor_backend?ref_type=heads
+[contributors-shield]: https://img.shields.io/badge/Contrbutors-10-green?style=flat&link=https%3A%2F%2Fgitlab.pg.innopolis.university%2Fteam20%2Fllm-rosalind
 [issues-shield]: https://img.shields.io/badge/Issues-20-orange?style=flat
 [issues-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues
-[contributors-shield]: https://img.shields.io/badge/Contrbutors-10-green?style=flat&link=https%3A%2F%2Fgitlab.pg.innopolis.university%2Fteam20%2Fllm-rosalind
-
-
