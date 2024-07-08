@@ -74,7 +74,7 @@ git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feat
 ```
 Setup environment
 ```sh
-pip install -r requirements.txt
+pip install -r .\requirements\requirements.txt
 ```
 Setup the .env file
 ```
