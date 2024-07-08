@@ -127,21 +127,24 @@ npm run dev
   <li>🟢 Collecting requirements</li>
   <li>🟢 Analyzing the problem</li>
   </ul>
+</li>  
+<li>2. Design 
+  <li>🟢 Designing the initial GUI</li>
+  <li>🟢 Designing API endpoint design</li>
+  <li>🟢 Designing EDR</li>
+  <li>🟢 Designing ML pipeline</li>
 </li>
-2. Design 
- 🟢 Designing the initial GUI
- 🟢 Designing API endpoint design
- 🟢 Designing EDR
- 🟢 Designing ML pipeline
-3. MVP-v0 
- 🟢 Adjusting GUI to the customer's feedback
- 🟢 Implementing the main page
-4. MVP-v1 
- 🟢 Adjusting GUI to the customer's feedback
- 🟢 Adjusting the main page to the customer's feedback
- 🟢 Implementing course preview page
- 🟢 Implementing tree view page
- 🟢 Implementing theory view page
+<li>3. MVP-v0 
+ <li>🟢 Adjusting GUI to the customer's feedback</li>
+ <li>🟢 Implementing the main page</li>
+</li>
+<li>4. MVP-v1 
+ <li>🟢 Adjusting GUI to the customer's feedback</li>
+ <li>🟢 Adjusting the main page to the customer's feedback</li>
+ <li>🟢 Implementing course preview page</li>
+ <li>🟢 Implementing tree view page</li>
+ <li>🟢 Implementing theory view page</li>
+</li>
 5. MVP-v2
  🟢 Implementing task view page
  🟠 Implementing user progress view
