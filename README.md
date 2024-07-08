@@ -129,36 +129,50 @@ npm run dev
   </ul>
 </li>  
 <li>2. Design 
+  <ul>
   <li>🟢 Designing the initial GUI</li>
   <li>🟢 Designing API endpoint design</li>
   <li>🟢 Designing EDR</li>
   <li>🟢 Designing ML pipeline</li>
+  </ul>  
 </li>
 <li>3. MVP-v0 
+ <ul>
  <li>🟢 Adjusting GUI to the customer's feedback</li>
  <li>🟢 Implementing the main page</li>
+ </ul>
 </li>
 <li>4. MVP-v1 
+ <ul>
  <li>🟢 Adjusting GUI to the customer's feedback</li>
  <li>🟢 Adjusting the main page to the customer's feedback</li>
  <li>🟢 Implementing course preview page</li>
  <li>🟢 Implementing tree view page</li>
  <li>🟢 Implementing theory view page</li>
+ </ul>
 </li>
-5. MVP-v2
- 🟢 Implementing task view page
- 🟠 Implementing user progress view
- 🟠 Implementing course addition view
- 🟠 Implementing theory editing view
- 🟠 Conducting a comprehensive code review
-6. MVP-v3
- 🟠 Integrating with InnoDataHub
- 🟠 Implementing tree editing view
- 🟠 Implementing task editing view
-7. MVP-v4 
- 🟠 Assembling AES projects into InnoDataHub
- 🟠 Fixing critical bugs
- 🟠 Preparing for the demo day
+<li>5. MVP-v2
+ <ul>
+ <li>🟢 Implementing task view page</li>
+ <li>🟠 Implementing user progress view</li>
+ <li>🟠 Implementing course addition view</li>
+ <li>🟠 Implementing theory editing view</li>
+ <li>🟠 Conducting a comprehensive code review</li>
+ </ul>
+</li>
+<li>6. MVP-v3
+ <ul>
+ <li>🟠 Integrating with InnoDataHub</li>
+ <li>🟠 Implementing tree editing view</li>
+ <li>🟠 Implementing task editing view</li>
+ </ul>
+<li>7. MVP-v4 
+ <ul>
+ <li>🟠 Assembling AES projects into InnoDataHub</li>
+ <li>🟠 Fixing critical bugs</li>
+ <li>🟠 Preparing for the demo day</li>
+ </ul>
+</li>
 </ul>
 
 See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues) for a full list of proposed features (and known issues).
