@@ -176,8 +176,8 @@ Marsel Berheev - m.berheev@innopolis.university
 [license-url]: LICENSE.md
 [contributors-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/graphs/feature_refactor_backend?ref_type=heads
 [product_screenshot]: images/llmrosalind.png
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-MIT-blue?style=flat
+[issues-shield]: https://img.shields.io/badge/Issues-20-orange?style=flat
 [issues-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues
 [contributors-shield]: https://img.shields.io/badge/Contrbutors-10-green?style=flat&link=https%3A%2F%2Fgitlab.pg.innopolis.university%2Fteam20%2Fllm-rosalind
 
