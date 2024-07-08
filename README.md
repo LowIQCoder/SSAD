@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![LLM Rosalind Screen Shot][images\llmrosalind.png]
+![LLM Rosalind Screen Shot][product_screenshot]
 
 LLM Rosalind is unique solution for studing and creating new courses. 
 
@@ -179,3 +179,4 @@ Marsel Berheev - m.berheev@innopolis.university
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-url]: LICENSE.md
 [contributors-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/graphs/feature_refactor_backend?ref_type=heads
+[product_screenshot]: images\llmrosalind.png
