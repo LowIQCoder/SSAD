@@ -49,12 +49,13 @@
 
 ![LLM Rosalind Screen Shot][product_screenshot]
 
-LLM Rosalind is unique solution for studing and creating new courses. 
+LLM Rosalind is a unique solution for studying and creating new courses.
 
 Here's why:
-* Auto generations of courses from sources with use of LLM
+
+* Auto-generation of courses from sources with use of LLM
 * Graph representation of tasks
-* Intuitive and beautiful interface
+* An intuitive and beautiful interface
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
