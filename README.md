@@ -73,7 +73,7 @@ Get repository
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature_refactor_backend
 ```
-Setup envoirement
+Setup environment
 ```sh
 pip install -r requirements.txt
 ```
@@ -98,7 +98,7 @@ Get repository
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature/main-page
 ```
-Setup envoirement
+Setup environment
 ```sh
 npm install
 ```
