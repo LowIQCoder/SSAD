@@ -93,9 +93,6 @@ Here's why:
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
 ## Run API
 Get reposetory
 ```sh
