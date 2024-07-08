@@ -34,11 +34,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Run API</a></li>
+        <li><a href="#installation">Run frontend</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -79,7 +78,7 @@ Here's why:
 ## Run API
 Get reposetory
 ```sh
-git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature/main-page
+git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -branch feature_refactor_backend
 ```
 Setup envoirement
 ```sh
@@ -121,7 +120,7 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-Oleg, vstav' suda kartinku is svoiei presentacii
+1. Analisys
 
 See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues) for a full list of proposed features (and known issues).
 
