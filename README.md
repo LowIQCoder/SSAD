@@ -217,5 +217,5 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [Postgres-url]: https://www.postgresql.org
 [FastAPI]: https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=%23FFFFFF&link=https%3A%2F%2Ffastapi.tiangolo.com
 [FastAPI-url]: https://fastapi.tiangolo.com
-[Age]: https://img.shields.io/badge/Apache_AGE-%236d1fdd?style=flat-square&logo=apache
+[Age]: https://img.shields.io/badge/Apache_AGE-%236d1fdd?style=for-the-badge&logo=apache
 [Age-url]: https://age.apache.org
