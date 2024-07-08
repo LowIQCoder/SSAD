@@ -215,7 +215,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [Next-url]: https://nextjs.org/
 [Postgres]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org
-[FastAPI]: https://img.shields.io/badge/Next.JS-%23000000?style=for-the-badge&logo=next.js
+[FastAPI]: https://img.shields.io/badge/FastAPI-%23FFFFFF?style=for-the-badge&logo=fastapi
 [FastAPI-url]: https://fastapi.tiangolo.com
 [Age]: https://img.shields.io/badge/Apache_AGE-%236d1fdd?style=for-the-badge&logo=apache
 [Age-url]: https://age.apache.org
