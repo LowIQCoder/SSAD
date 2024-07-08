@@ -181,16 +181,16 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dinislam Gabitov - d.gabitov@innopolis.university
-Egor Chernobrovkin - e.chernobrovkin@innopolis.university
-Marsel Berheev - m.berheev@innopolis.university
-Nikita Stepankov - n.stepankov@innopolis.university
-Nikita Tiurkov - n.tiurkov@innopolis.university
-Oleg Shchendrigin - o.shchendrigin@innopolis.university
-Valeriia Neganova - v.neganova@innopolis.university
-Vladimir Bazilevich - v.bazilevich@innopolis.university
-Andrey Palaev - a.palaev@innopolis.university
-Michail Rudakov - m.rudakov@innopolis.university
+* Dinislam Gabitov - d.gabitov@innopolis.university
+* Egor Chernobrovkin - e.chernobrovkin@innopolis.university
+* Marsel Berheev - m.berheev@innopolis.university
+* Nikita Stepankov - n.stepankov@innopolis.university
+* Nikita Tiurkov - n.tiurkov@innopolis.university
+* Oleg Shchendrigin - o.shchendrigin@innopolis.university
+* Valeriia Neganova - v.neganova@innopolis.university
+* Vladimir Bazilevich - v.bazilevich@innopolis.university
+* Andrey Palaev - a.palaev@innopolis.university
+* Michail Rudakov - m.rudakov@innopolis.university
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
