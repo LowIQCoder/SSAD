@@ -20,8 +20,7 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
-
-
+[![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
 <br />
