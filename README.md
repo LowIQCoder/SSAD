@@ -58,7 +58,7 @@ Here's why:
 * Graph representation of tasks
 * Intuitive and beautiful interface
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 ### Built With
 
@@ -66,7 +66,7 @@ Here's why:
 * FastAPI
 * Postgres
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 ## Getting started
 ## Run API
@@ -108,7 +108,7 @@ Run frontend
 npm run dev
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -170,14 +170,14 @@ npm run dev
 
 See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -193,7 +193,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 * Andrey Palaev - a.palaev@innopolis.university
 * Michail Rudakov - m.rudakov@innopolis.university
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 ##   Acknowledgement
@@ -201,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 * [FastAPI](https://fastapi.tiangolo.com)
 * [Best Chanel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product_screenshot]: images/llmrosalind.png
