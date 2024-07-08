@@ -121,37 +121,37 @@ npm run dev
 ## Roadmap
 
 1. Analysis
- [] - Initial meeting with the customer
- * Collecting requirements
- * Analyzing the problem
-2. Design READY
- * Designing the initial GUI
- * Designing API endpoint design
- * Designing EDR
- * Designing ML pipeline
-3. MVP-v0 READY
- * Adjusting GUI to the customer's feedback
- * Implementing the main page
-4. MVP-v1 READY
- * Adjusting GUI to the customer's feedback
- * Adjusting the main page to the customer's feedback
- * Implementing course preview page
- * Implementing tree view page
- * Implementing theory view page
-5. MVP-v2 IN PROCESS
- * Implementing task view page
- * Implementing user progress view
- * Implementing course addition view
- * Implementing theory editing view
- * Conducting a comprehensive code review
-6. MVP-v3 IN PROCESS
- * Integrating with InnoDataHub
- * Implementing tree editing view
- * Implementing task editing view
-7. MVP-v4 IN PROCESS
- * Assembling AES projects into InnoDataHub
- * Fixing critical bugs
- * Preparing for the demo day
+ 🟢 Initial meeting with the customer
+ 🟢 Collecting requirements
+ 🟢 Analyzing the problem
+2. Design 
+ 🟢 Designing the initial GUI
+ 🟢 Designing API endpoint design
+ 🟢 Designing EDR
+ 🟢 Designing ML pipeline
+3. MVP-v0 
+ 🟢 Adjusting GUI to the customer's feedback
+ 🟢 Implementing the main page
+4. MVP-v1 
+ 🟢 Adjusting GUI to the customer's feedback
+ 🟢 Adjusting the main page to the customer's feedback
+ 🟢 Implementing course preview page
+ 🟢 Implementing tree view page
+ 🟢 Implementing theory view page
+5. MVP-v2
+ 🟢 Implementing task view page
+ 🟠 Implementing user progress view
+ 🟠 Implementing course addition view
+ 🟠 Implementing theory editing view
+ 🟠 Conducting a comprehensive code review
+6. MVP-v3
+ 🟠 Integrating with InnoDataHub
+ 🟠 Implementing tree editing view
+ 🟠 Implementing task editing view
+7. MVP-v4 
+ 🟠 Assembling AES projects into InnoDataHub
+ 🟠 Fixing critical bugs
+ 🟠 Preparing for the demo day
 
 See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues) for a full list of proposed features (and known issues).
 
