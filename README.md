@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![LLM Rosalind Screen Shot][product-screenshot]
+![LLM Rosalind Screen Shot][images\llmrosalind.png]
 
 LLM Rosalind is unique solution for studing and creating new courses. 
 
