@@ -179,4 +179,4 @@ Marsel Berheev - m.berheev@innopolis.university
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-url]: LICENSE.md
 [contributors-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/graphs/feature_refactor_backend?ref_type=heads
-[product_screenshot]: images\llmrosalind.png
+[product_screenshot]: images/llmrosalind.png
