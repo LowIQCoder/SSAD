@@ -181,4 +181,6 @@ Marsel Berheev - m.berheev@innopolis.university
 [product_screenshot]: images/llmrosalind.png
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+
