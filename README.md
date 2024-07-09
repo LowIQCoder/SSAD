@@ -45,7 +45,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 ![LLM Rosalind Screen Shot][product_screenshot]
 
@@ -59,7 +59,7 @@ Reasons to consider LLM Rosalind:
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
-### Built With
+## Built With
 
 * Pytorch
 * Milvus
@@ -121,7 +121,7 @@ npm run dev
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- ROADMAP -->
-## Roadmap
+# Roadmap
 
 <ul>
 <li>1. Analysis
@@ -182,7 +182,7 @@ See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
-## Contributing
+# Contributing
 
 If you have some ideas on how to make this project better, fork repo and create a pull request
 
@@ -194,14 +194,14 @@ git push origin feature_cool_feature
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- LICENSE -->
-## License
+# License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 * Dinislam Gabitov - d.gabitov@innopolis.university
 * Egor Chernobrovkin - e.chernobrovkin@innopolis.university
