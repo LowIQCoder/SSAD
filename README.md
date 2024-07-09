@@ -33,7 +33,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#run-ml">Run ML</a></li>
-        <li><a href="#run-apu">Run API</a></li>
+        <li><a href="#run-api">Run API</a></li>
         <li><a href="#run-frontend">Run frontend</a></li>
       </ul>
     </li>
