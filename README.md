@@ -1,4 +1,4 @@
-<a id="readme-top"></a>
+![image](https://github.com/LowIQCoder/SSAD/assets/95246939/71b13d7c-6f1f-415c-961a-01d9852a7a92)<a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -54,7 +54,7 @@ LLM Rosalind offers a distinctive approach to studying and developing new course
 Reasons to consider LLM Rosalind:
 
 - Automatic course creation from various sources utilizing LLM
-- Topic representation through graphs
+- 
 - An intuitive and visually appealing interface
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
@@ -80,11 +80,11 @@ Reasons to consider LLM Rosalind:
 ## Run ML
 
 ## Run API
-Get repository
+Get repository with latest version of API
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
-Setup environment for api
+Setup dependencies for api
 ```sh
 pip install -r .\requirements\requirements.txt
 ```
@@ -105,15 +105,15 @@ Run API
 python3 -m src.backend.api
 ```
 ## Run frontend
-Get repository
+Get repository with latest version of frontend
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
-Install project dependences
+Setup dependencies for frontend
 ```sh
 npm install
 ```
-Run frontend
+Run frontend in dev mode
 ```sh
 npm run dev
 ```
