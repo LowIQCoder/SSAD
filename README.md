@@ -32,8 +32,9 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Run API</a></li>
-        <li><a href="#installation">Run frontend</a></li>
+        <li><a href="ml">Run ML</a></li>
+        <li><a href="#api">Run API</a></li>
+        <li><a href="#frontend">Run frontend</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
