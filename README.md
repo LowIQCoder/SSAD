@@ -12,10 +12,15 @@
     <img src="images/logo.jfif" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">LLM Rosalind</h3>
+<h3 align="center">LLM Rosalind</h3>
 
   <p align="center">
     A new way to learn!
+    <br />
+    <br />
+    <a href="https://gitlab.pg.innopolis.university/team20/llm-rosalind/issues">Report Bug</a>
+    ·
+    <a href="https://gitlab.pg.innopolis.university/team20/llm-rosalind/issues">Request Feature</a>
   </p>
 </div>
 
@@ -34,7 +39,7 @@
       <ul>
         <li><a href="#run-ml">Run ML</a></li>
         <li><a href="#run-api">Run API</a></li>
-        <li><a href="#run-frontend">Run frontend</a></li>
+        <li><a href="#run-frontend">Run Frontend</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -46,9 +51,8 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-# About The Project
+## About The Project
 
-![LLM Rosalind Screen Shot][product_screenshot]
 
 LLM Rosalind offers a distinctive approach to studying and developing new courses.
 
@@ -56,19 +60,20 @@ Reasons to consider LLM Rosalind:
 
 - Automatic course creation from various sources utilizing LLM
 - An intuitive and visually appealing interface
-
+- The possibility to find a variety of courses on different topics
+- Different levels of difficulty within the same course
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
-## Built With
+### Built With
 
-* Pytorch
-* Milvus
-* Nougat
-* Langchain
-* Transformers
-* React
-* Typescript
-* Asyncpg
+* [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BuPg6bX6J7FfnrkmbKPapCrIrVh_Jl_6WqkWWzTFbk6pgN8QbJ4l_2DFtYbnT_Giwxw&amp;amp;usqp=CAU" width="100"/>](https://pytorch.org/)
+* [<img src="https://artwork.lfaidata.foundation/projects/milvus/horizontal/color/milvus-horizontal-color.png" width="100"/>](https://artwork.lfaidata.foundation/projects/milvus/horizontal/color/milvus-horizontal-color.png)
+* [Nougat](https://nougat.ai/)
+* [<img src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&amp;v=beta&amp;t=PrMj5CmpRsqMecZwmySc3LSnQ9jkZNoer75YWJFzJBM" width="100"/>](https://langchain.com/)
+* [<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" width="100"/>](https://huggingface.co/transformers/)
+* [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" width="100"/>](https://reactjs.org/)
+* [<img src="https://habrastorage.org/getpro/habr/upload_files/3f2/48c/8d9/3f248c8d93eb8ab55711d6e442e6c23e.png" width="100"/>](https://www.typescriptlang.org/)
+* [<img src="https://pypi-camo.freetls.fastly.net/a28a1c21ce5cc58bb5ac7b75e2f2744349e5b4e8/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c697465737461722d6f72672f6272616e64696e672f6d61696e2f6173736574732f4272616e64696e672532302d2532305356472532302d2532305472616e73706172656e742f6173796e6350472532302d25323042616e6e65722532302d253230496e6c696e652532302d2532304c696768742e7376672367682d6c696768742d6d6f64652d6f6e6c79" width="100"/>](https://github.com/MagicStack/asyncpg)
 * [![Next][Next.js]][Next-url]
 * [![FastAPI][FastAPI]][FastAPI-url]
 * [![Postgres][Postgres]][Postgres-url]
@@ -76,8 +81,6 @@ Reasons to consider LLM Rosalind:
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
-# Getting started
-## Run ML
 
 ## Run API
 Get repository with latest version of API
@@ -86,7 +89,7 @@ git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feat
 ```
 Setup dependencies for api
 ```sh
-pip install -r .\requirements\requirements.txt
+pip install -r ./requirements/requirements.txt
 ```
 Setup the .env file
 ```
@@ -109,11 +112,11 @@ Get repository with latest version of frontend
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
-Setup dependencies for frontend
+Setup frontend dependencies
 ```sh
 npm install
 ```
-Run frontend in dev mode
+Run development script
 ```sh
 npm run dev
 ```
@@ -124,7 +127,9 @@ npm run dev
 # Roadmap
 
 <ul>
-<li>1. Analysis
+
+<li>
+1. Analysis
   <ul>
   <li>🟢 Initial meeting with the customer</li>
   <li>🟢 Collecting requirements</li>
