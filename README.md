@@ -1,4 +1,4 @@
-![image](https://github.com/LowIQCoder/SSAD/assets/95246939/71b13d7c-6f1f-415c-961a-01d9852a7a92)<a id="readme-top"></a>
+<a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
