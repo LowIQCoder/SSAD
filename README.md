@@ -55,7 +55,6 @@ LLM Rosalind offers a distinctive approach to studying and developing new course
 Reasons to consider LLM Rosalind:
 
 - Automatic course creation from various sources utilizing LLM
-- 
 - An intuitive and visually appealing interface
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
