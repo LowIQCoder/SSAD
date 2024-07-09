@@ -51,7 +51,7 @@
 
 LLM Rosalind is a unique solution for studying and creating new courses.
 
-Here's why:
+Here's why you should try LLMRosalind:
 
 * Auto-generation of courses from sources with use of LLM
 * Graph representation of tasks
