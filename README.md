@@ -49,13 +49,13 @@
 
 ![LLM Rosalind Screen Shot][product_screenshot]
 
-LLM Rosalind is a unique solution for studying and creating new courses.
+LLM Rosalind offers a distinctive approach to studying and developing new courses.
 
-Here's why you should try LLMRosalind:
+Reasons to consider LLM Rosalind:
 
-* Auto-generation of courses from sources with use of LLM
-* Graph representation of topics
-* An intuitive and beautiful interface
+- Automatic course creation from various sources utilizing LLM
+- Topic representation through graphs
+- An intuitive and visually appealing interface
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
@@ -76,13 +76,15 @@ Here's why you should try LLMRosalind:
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
-## Getting started
+# Getting started
+## Run ML
+
 ## Run API
 Get repository
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
-Setup environment
+Setup environment for api
 ```sh
 pip install -r .\requirements\requirements.txt
 ```
@@ -107,7 +109,7 @@ Get repository
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
-Setup environment
+Install project dependences
 ```sh
 npm install
 ```
