@@ -208,15 +208,6 @@ Project Link: https://gitlab.pg.innopolis.university/team20/llm-rosalind
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
-<!-- ACKNOWLEDGEMENTS -->
-##   Acknowledgement
-
-* [FastAPI](https://fastapi.tiangolo.com)
-* [Apache AGE](https://age.apache.org)
-* [Best Chanel](https://www.youtube.com/watch?v=xvFZjo5PgG0)
-
-<p align="right"><a href="#readme-top">⬆️</a></p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [product_screenshot]: images/llmrosalind.png
 [license-url]: LICENSE.md
