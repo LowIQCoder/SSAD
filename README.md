@@ -61,6 +61,14 @@ Here's why you should try LLMRosalind:
 
 ### Built With
 
+* Pytorch
+* Milvus
+* Nougat
+* Langchain
+* Transformers
+* React
+* Typescript
+* Asyncpg
 * [![Next][Next.js]][Next-url]
 * [![FastAPI][FastAPI]][FastAPI-url]
 * [![Postgres][Postgres]][Postgres-url]
