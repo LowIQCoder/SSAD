@@ -4,7 +4,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![Issues][issues-shield]][issues-url]
-[![python][python]][python-url]
 
 <!-- PROJECT LOGO -->
 <br />
