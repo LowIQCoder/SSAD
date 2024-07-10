@@ -83,6 +83,7 @@ Reasons to consider LLM Rosalind:
 
 
 ## Run API
+Install Poetry[https://python-poetry.org/docs/]
 Get repository with latest version of API
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
