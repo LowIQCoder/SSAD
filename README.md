@@ -66,14 +66,14 @@ Reasons to consider LLM Rosalind:
 
 ### Built With
 
-* [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2BuPg6bX6J7FfnrkmbKPapCrIrVh_Jl_6WqkWWzTFbk6pgN8QbJ4l_2DFtYbnT_Giwxw&amp;amp;usqp=CAU" width="100"/>](https://pytorch.org/)
-* [<img src="https://artwork.lfaidata.foundation/projects/milvus/horizontal/color/milvus-horizontal-color.png" width="100"/>](https://artwork.lfaidata.foundation/projects/milvus/horizontal/color/milvus-horizontal-color.png)
-* [Nougat](https://nougat.ai/)
-* [<img src="https://media.licdn.com/dms/image/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&amp;v=beta&amp;t=PrMj5CmpRsqMecZwmySc3LSnQ9jkZNoer75YWJFzJBM" width="100"/>](https://langchain.com/)
-* [<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" width="100"/>](https://huggingface.co/transformers/)
-* [<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" width="100"/>](https://reactjs.org/)
-* [<img src="https://habrastorage.org/getpro/habr/upload_files/3f2/48c/8d9/3f248c8d93eb8ab55711d6e442e6c23e.png" width="100"/>](https://www.typescriptlang.org/)
-* [<img src="https://pypi-camo.freetls.fastly.net/a28a1c21ce5cc58bb5ac7b75e2f2744349e5b4e8/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c697465737461722d6f72672f6272616e64696e672f6d61696e2f6173736574732f4272616e64696e672532302d2532305356472532302d2532305472616e73706172656e742f6173796e6350472532302d25323042616e6e65722532302d253230496e6c696e652532302d2532304c696768742e7376672367682d6c696768742d6d6f64652d6f6e6c79" width="100"/>](https://github.com/MagicStack/asyncpg)
+* [![Pytorch][Pytorch]][Pytorch-url]
+* [![Milvus][Milvus]][Milvus-url]
+* [![Nougat][Nougat]][Nougat-url]
+* [![Langchain][Langchain]][Langchain-url]
+* [![Transformers][Transformers]][Transformers-url]
+* [![React][React]][React-url]
+* [![TS][TS]][TS-url]
+* [![Asyncpg][Asyncpg]][Asyncpg-url]
 * [![Next][Next.js]][Next-url]
 * [![FastAPI][FastAPI]][FastAPI-url]
 * [![Postgres][Postgres]][Postgres-url]
@@ -250,3 +250,19 @@ Project Link: https://gitlab.pg.innopolis.university/team20/llm-rosalind
 [FastAPI-url]: https://fastapi.tiangolo.com
 [Age]: https://img.shields.io/badge/Apache_AGE-%236d1fdd?style=for-the-badge&logo=apache
 [Age-url]: https://age.apache.org
+[Asyncpg]: https://img.shields.io/badge/AsyncPG-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF
+[Asyncpg-url]: https://github.com/MagicStack/asyncpg
+[TS]: https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF
+[TS-url]: https://www.typescriptlang.org
+[React]: https://img.shields.io/badge/React-%2323272f?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[React-url]: https://react.dev
+[Transformers]: https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=%23000000
+[Transformers-url]: https://huggingface.co/docs/transformers/index
+[Langchain]: https://img.shields.io/badge/LangChain-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=%23FFFFFF
+[Langchain-url]: https://python.langchain.com/v0.2/docs/introduction/
+[Nougat]: https://img.shields.io/badge/Nougat-%230467DF?style=for-the-badge&logo=meta&logoColor=%23FFFFFF
+[Nougat-url]: https://github.com/facebookresearch/nougat
+[Milvus]: https://img.shields.io/badge/Milvus-%2300A1EA?style=for-the-badge&logo=milvus&logoColor=%23FFFFFF
+[Milvus-url]: https://milvus.io
+[Pytorch]: https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=%23FFFFFF
+[Pytorch-url]: https://pytorch.org
