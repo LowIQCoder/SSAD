@@ -83,14 +83,23 @@ Reasons to consider LLM Rosalind:
 
 
 ## Run API
-Install Poetry[https://python-poetry.org/docs/]
+
 Get repository with latest version of API
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
+Install [Poetry](https://python-poetry.org/docs/) and [Conda](https://conda.io/projects/conda/en/latest/index.html)
+
+Create and activate conda envoirement
+
+```sh
+conda create --name rosalind python=3.11
+conda activate rosalind
+```
+
 Setup dependencies for api
 ```sh
-pip install -r ./requirements/requirements.txt
+poetry install
 ```
 Setup the .env file
 ```
