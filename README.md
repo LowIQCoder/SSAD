@@ -4,6 +4,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![Issues][issues-shield]][issues-url]
+[![python][python]][python-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -241,6 +242,8 @@ Project Link: https://gitlab.pg.innopolis.university/team20/llm-rosalind
 [contributors-shield]: https://img.shields.io/badge/Contrbutors-10-green?style=flat&link=https%3A%2F%2Fgitlab.pg.innopolis.university%2Fteam20%2Fllm-rosalind
 [issues-shield]: https://img.shields.io/badge/Issues-20-orange?style=flat
 [issues-url]: https://gitlab.pg.innopolis.university/team20/llm-rosalind/-/issues
+[python]: https://img.shields.io/badge/Python-3.12-blue?style=flat
+[python-url]: https://www.youtube.com/watch?v=xvFZjo5PgG0
 
 [Next.js]: https://img.shields.io/badge/Next.JS-%23000000?style=for-the-badge&logo=next.js
 [Next-url]: https://nextjs.org/
