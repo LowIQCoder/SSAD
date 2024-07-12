@@ -34,8 +34,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#run-api">Run API</a></li>
-        <li><a href="#run-frontend">Run Frontend</a></li>
+        <li><a href="#launch-api">Run API</a></li>
+        <li><a href="#launch-frontend">Run Frontend</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
