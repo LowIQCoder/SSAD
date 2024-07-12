@@ -87,11 +87,19 @@ Reasons to consider LLM Rosalind:
 
 ## Launch API
 
-Clone repository with latest version of API
+Before you begin, ensure you have met the following requirements:
+
+* [Python](https://www.python.org) 3.8 or later
+* [Poetry](https://python-poetry.org/docs/) 1.2.0 or later
+
+To get started, clone the repository containing the latest version of the API
+
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
-After, you must setup the .env file
+
+Configure the environment variables in .env file.
+
 ```
 # For database
 export POSTGRES_DB=<Database name>
@@ -99,33 +107,52 @@ export POSTGRES_USER=some=<Database user>
 export POSTGRES_PASSWORD=<Database password>
 export POSTGRES_HOST=<Database host>
 export POSTGRES_PORT=<Database port>
+
 # For static files
 export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
 export STATIC_FILES_DOWNLOAD_PATH=/files/upload
 ```
-Our project use [Poetry](https://python-poetry.org/docs/) to manage dependencies. Install them using
+
+After, to install all required packages, run 
+
 ```sh
 poetry install
 ```
-Launch API
+
+Start the API server by executing the following command:
+
 ```sh
 python3 -m src.backend.api
 ```
-If everything is fine, check http://localhost:6660/docs for API documentation and avaliable endpoints
+
+Once the API is running, you can access its documentation and available endpoints at:
+
+http://localhost:6660/docs
+
 ## Luanch frontend
-Clone repository with latest version of frontend
+
+First of all, clone repository with latest version of frontend
+
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
-Setup frontend dependencies through [npm](https://www.npmjs.com)
+
+Install all necessary dependencies with use of [npm](https://www.npmjs.com) by running
+
 ```sh
 npm install
 ```
-Run front end in development mode
+
+To run frontend in development mode, execute
+
 ```sh
 npm run dev
 ```
-Now, at http://localhost:3000 you can test frontend
+
+With the development server running, you can view the frontend application by navigating to:
+
+http://localhost:3000
+
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- ROADMAP -->
@@ -241,7 +268,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [Next-url]: https://nextjs.org/
 [Postgres]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgres-url]: https://www.postgresql.org
-[FastAPI]: https://img.shields.io/badge/FastAPI-%23FFFFFF?style=for-the-badge&logo=fastapi
+[FastAPI]: https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=%23FFFFFF
 [FastAPI-url]: https://fastapi.tiangolo.com
 [Age]: https://img.shields.io/badge/Apache_AGE-%236d1fdd?style=for-the-badge&logo=apache
 [Age-url]: https://age.apache.org
