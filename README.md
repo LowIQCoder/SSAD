@@ -87,7 +87,7 @@ Reasons to consider LLM Rosalind:
 
 ## Launch API
 
-Get repository with latest version of API
+Clone repository with latest version of API
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
@@ -121,7 +121,7 @@ Run API
 python3 -m src.backend.api
 ```
 ## Luanch frontend
-Get repository with latest version of frontend
+Clone repository with latest version of frontend
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
