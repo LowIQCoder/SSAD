@@ -63,14 +63,23 @@ Reasons to consider LLM Rosalind:
 ### Built With
 
  [![Pytorch][Pytorch]][Pytorch-url]
+ 
  [![Milvus][Milvus]][Milvus-url]
+ 
  [![Nougat][Nougat]][Nougat-url]
+ 
  [![Langchain][Langchain]][Langchain-url]
+ 
  [![Transformers][Transformers]][Transformers-url]
+ 
  [![React][React]][React-url]
+ 
  [![TS][TS]][TS-url]
+ 
  [![Asyncpg][Asyncpg]][Asyncpg-url]
+ 
  [![Next][Next.js]][Next-url]
+ 
  [![FastAPI][FastAPI]][FastAPI-url]
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
