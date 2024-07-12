@@ -141,7 +141,7 @@ Install all necessary dependencies with use of [npm](https://www.npmjs.com) by r
 npm install
 ```
 
-To run frontend in development mode, execute:
+To launch frontend in development mode, execute:
 
 ```sh
 npm run dev
