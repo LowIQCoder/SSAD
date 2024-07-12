@@ -100,14 +100,14 @@ poetry install
 Setup the .env file
 ```
 # For database
-POSTGRES_DB=someDB
-POSTGRES_USER=someUser
-POSTGRES_PASSWORD=somePW
-POSTGRES_HOST=0.0.0.0
-POSTGRES_PORT=9999
+export POSTGRES_DB=<Database name>
+export POSTGRES_USER=some=<Database user>
+export POSTGRES_PASSWORD=<Database password>
+export POSTGRES_HOST=<Database host>
+export POSTGRES_PORT=<Database port>
 # For static files
-STATIC_FILES_UPLOAD_PATH=/path/to/folder
-STATIC_FILES_DOWNLOAD_PATH=/files/upload
+export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
+export STATIC_FILES_DOWNLOAD_PATH=/files/upload
 ```
 Run API
 ```sh
