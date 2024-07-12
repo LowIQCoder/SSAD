@@ -34,7 +34,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#run-ml">Run ML</a></li>
         <li><a href="#run-api">Run API</a></li>
         <li><a href="#run-frontend">Run Frontend</a></li>
       </ul>
@@ -73,13 +72,11 @@ Reasons to consider LLM Rosalind:
 * [![Asyncpg][Asyncpg]][Asyncpg-url]
 * [![Next][Next.js]][Next-url]
 * [![FastAPI][FastAPI]][FastAPI-url]
-* [![Postgres][Postgres]][Postgres-url]
-* [![Age][Age]][Age-url]
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 
-## Run API
+## Launch API
 
 Get repository with latest version of API
 ```sh
@@ -114,7 +111,7 @@ Run API
 ```sh
 python3 -m src.backend.api
 ```
-## Run frontend
+## Luanch frontend
 Get repository with latest version of frontend
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
@@ -213,7 +210,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- CONTACT -->
-# Contact
+# Authors
 
 * Dinislam Gabitov - d.gabitov@innopolis.university
 * Egor Chernobrovkin - e.chernobrovkin@innopolis.university
@@ -225,8 +222,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 * Vladimir Bazilevich - v.bazilevich@innopolis.university
 * Andrey Palaev - a.palaev@innopolis.university
 * Michail Rudakov - m.rudakov@innopolis.university
-
-Project Link: https://gitlab.pg.innopolis.university/team20/llm-rosalind
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
