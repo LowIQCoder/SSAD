@@ -12,12 +12,9 @@
     <img src="images/logo.jfif" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">LLM Rosalind</h3>
+<h3 align="center">Graphit</h3>
 
   <p align="center">
-    A new way to learn!
-    <br />
-    <br />
     <a href="https://gitlab.pg.innopolis.university/team20/llm-rosalind/issues">Report Bug</a>
     ·
     <a href="https://gitlab.pg.innopolis.university/team20/llm-rosalind/issues">Request Feature</a>
