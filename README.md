@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://gitlab.pg.innopolis.university/team20/llm-rosalind">
-    <img src="images/logo.jfif" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Graphit</h3>
