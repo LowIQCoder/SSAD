@@ -34,8 +34,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#launch-api">Run API</a></li>
-        <li><a href="#launch-frontend">Run Frontend</a></li>
+        <li><a href="#launch-api">Launch API</a></li>
+        <li><a href="#launch-frontend">Launch Frontend</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -129,7 +129,7 @@ Once the API is running, you can access its documentation and available endpoint
 
 http://localhost:6660/docs
 
-## Luanch frontend
+## Launch frontend
 
 First of all, clone repository with latest version of frontend
 
