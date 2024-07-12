@@ -117,7 +117,7 @@ Clone repository with latest version of frontend
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
-Setup frontend dependencies througth [npm](https://www.npmjs.com)
+Setup frontend dependencies through [npm](https://www.npmjs.com)
 ```sh
 npm install
 ```
