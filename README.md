@@ -91,13 +91,7 @@ Clone repository with latest version of API
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
-Our project use [Poetry](https://python-poetry.org/docs/) to manage dependencies
-
-Setup dependencies for api
-```sh
-poetry install
-```
-Setup the .env file
+After, you must setup the .env file
 ```
 # For database
 export POSTGRES_DB=<Database name>
@@ -109,24 +103,29 @@ export POSTGRES_PORT=<Database port>
 export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
 export STATIC_FILES_DOWNLOAD_PATH=/files/upload
 ```
-Run API
+Our project use [Poetry](https://python-poetry.org/docs/) to manage dependencies. Install them using
+```sh
+poetry install
+```
+Launch API
 ```sh
 python3 -m src.backend.api
 ```
+IF everything is good, check http://localhost:6660/docs for API documentation and endpoints
 ## Luanch frontend
 Clone repository with latest version of frontend
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
-Setup frontend dependencies
+Setup frontend dependencies througth [npm](https://www.npmjs.com)
 ```sh
 npm install
 ```
-Run development script
+Run front end in development mode
 ```sh
 npm run dev
 ```
-
+Now, at http://localhost:3000 you can test frontend
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- ROADMAP -->
