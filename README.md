@@ -92,13 +92,13 @@ Before you begin, ensure you have met the following requirements:
 * [Python](https://www.python.org) 3.8 or later
 * [Poetry](https://python-poetry.org/docs/) 1.2.0 or later
 
-To get started, clone the repository containing the latest version of the API
+To get started, clone the repository containing the latest version of the API:
 
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature_refactor_backend
 ```
 
-Configure the environment variables in .env file.
+Configure the environment variables in .env file:
 
 ```
 # For database
@@ -113,7 +113,7 @@ export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
 export STATIC_FILES_DOWNLOAD_PATH=/files/upload
 ```
 
-After, to install all required packages, run 
+After, to install all required packages, run:
 
 ```sh
 poetry install
@@ -131,19 +131,19 @@ http://localhost:6660/docs
 
 ## Launch frontend
 
-First of all, clone repository with latest version of frontend
+First of all, clone repository with latest version of frontend:
 
 ```sh
 git clone https://gitlab.pg.innopolis.university/team20/llm-rosalind.git -b feature/main-page
 ```
 
-Install all necessary dependencies with use of [npm](https://www.npmjs.com) by running
+Install all necessary dependencies with use of [npm](https://www.npmjs.com) by running:
 
 ```sh
 npm install
 ```
 
-To run frontend in development mode, execute
+To run frontend in development mode, execute:
 
 ```sh
 npm run dev
