@@ -24,7 +24,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-graphit">About Graphit</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -45,12 +45,12 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Graphit
 
 
-LLM Rosalind offers a distinctive approach to studying and developing new courses.
+Graphit offers a distinctive approach to studying and developing new courses.
 
-Reasons to consider LLM Rosalind:
+Reasons to consider Graphit:
 
 - Automatic course creation from various sources utilizing LLM
 - An intuitive and visually appealing interface
