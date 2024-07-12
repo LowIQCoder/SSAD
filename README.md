@@ -111,7 +111,7 @@ Launch API
 ```sh
 python3 -m src.backend.api
 ```
-IF everything is good, check http://localhost:6660/docs for API documentation and endpoints
+If everything is fine, check http://localhost:6660/docs for API documentation and avaliable endpoints
 ## Luanch frontend
 Clone repository with latest version of frontend
 ```sh
