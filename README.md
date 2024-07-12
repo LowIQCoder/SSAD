@@ -221,13 +221,15 @@ See the [open issues](https://gitlab.pg.innopolis.university/team20/llm-rosalind
 
 # Contributing
 
-If you have some ideas on how to make this project better, fork repo and create a pull request
+If you're interested in enhancing this project with new features or improvements, fork the repository and create new branch:
 
 ```sh
 git checkout -b feature_cool_feature
 git commit -m 'Add cool feature'
 git push origin feature_cool_feature
 ```
+After completing these steps, you can open a pull request to propose your changes to the main project.
+
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- LICENSE -->
