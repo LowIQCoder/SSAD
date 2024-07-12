@@ -248,7 +248,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [Asyncpg-url]: https://github.com/MagicStack/asyncpg
 [TS]: https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF
 [TS-url]: https://www.typescriptlang.org
-[React]: https://img.shields.io/badge/React-%2323272f?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[React]: https://img.shields.io/badge/React-%232361DAFB?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://react.dev
 [Transformers]: https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=%23000000
 [Transformers-url]: https://huggingface.co/docs/transformers/index
