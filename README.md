@@ -82,8 +82,8 @@ Reasons to consider Graphit:
 
 Before you begin, ensure you have met the following requirements:
 
-* [Python](https://www.python.org) 3.8 or later
-* [Poetry](https://python-poetry.org/docs/) 1.2.0 or later
+* [Python](https://www.python.org) 3.8 or higher
+* [Poetry](https://python-poetry.org/docs/) 1.2.0 or higher
 
 To get started, clone the repository containing the latest version of the API:
 
