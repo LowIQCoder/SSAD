@@ -61,13 +61,6 @@ To explore Graphit, you can visit [this link](http://10.100.30.244:1001) for per
 
 ### User Guide
 
-Since Graphit offers intuitive and user-frendly interface, it can be easily used by everyone.
-
-Some of awaliable features are:
-
-* List of popular courses
-* Pin of favorite courses
-* Graph representation of courses topics
 
 
 ### Built With
