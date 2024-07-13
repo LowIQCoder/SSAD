@@ -104,6 +104,11 @@ export POSTGRES_PORT=<Database port>
 # For static files
 export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
 export STATIC_FILES_DOWNLOAD_PATH=/files/upload
+
+# For ML
+export LLM_ENDPOINT=
+export MILVUS_ENDPOINT=
+export EMBEDDER_ENDPOINT=
 ```
 
 After, to install all required packages, run:
