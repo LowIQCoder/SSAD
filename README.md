@@ -29,13 +29,8 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#launch-api">Launch API</a></li>
-        <li><a href="#launch-frontend">Launch Frontend</a></li>
-      </ul>
-    </li>
+    <li><a href="#launch-api">Launch API</a></li>
+    <li><a href="#launch-frontend">Launch Frontend</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
