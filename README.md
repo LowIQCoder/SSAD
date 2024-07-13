@@ -27,6 +27,7 @@
       <a href="#about-graphit">About Graphit</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="demonstration">Demonstration</a></li>
       </ul>
     </li>
     <li><a href="#launch-api">Launch API</a></li>
@@ -52,6 +53,12 @@ Reasons to consider Graphit:
 - The possibility to find a variety of courses on different topics
 - Different levels of difficulty within the same course
 <p align="right"><a href="#readme-top">⬆️</a></p>
+
+### Demonstration 
+
+To explore Graphit, you can visit [this link](10.100.30.244:1001) for personal testing, or alternatively, watch a [demonstration video](10.100.30.244:1001).
+
+
 
 ### Built With
 
