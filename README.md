@@ -28,6 +28,7 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#demonstration">Demonstration</a></li>
+        <li><a href="#user-guide">User Guide</a></li>
       </ul>
     </li>
     <li><a href="#launch-api">Launch API</a></li>
@@ -58,6 +59,15 @@ Reasons to consider Graphit:
 
 To explore Graphit, you can visit [this link](http://10.100.30.244:1001) for personal testing, or alternatively, watch a [demonstration video](http://10.100.30.244:1001).
 
+### User Guide
+
+Since Graphit offers intuitive and user-frendly interface, it can be easily used by everyone.
+
+Some of awaliable features are:
+
+* List of popular courses
+* Pin of favorite courses
+* Graph representation of courses topics
 
 
 ### Built With
