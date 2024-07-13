@@ -27,7 +27,7 @@
       <a href="#about-graphit">About Graphit</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="demonstration">Demonstration</a></li>
+        <li><a href="#demonstration">Demonstration</a></li>
       </ul>
     </li>
     <li><a href="#launch-api">Launch API</a></li>
@@ -56,7 +56,7 @@ Reasons to consider Graphit:
 
 ### Demonstration 
 
-To explore Graphit, you can visit [this link](10.100.30.244:1001) for personal testing, or alternatively, watch a [demonstration video](10.100.30.244:1001).
+To explore Graphit, you can visit [this link](http://10.100.30.244:1001) for personal testing, or alternatively, watch a [demonstration video](http://10.100.30.244:1001).
 
 
 
