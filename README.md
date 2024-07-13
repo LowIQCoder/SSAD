@@ -223,6 +223,8 @@ git push origin feature_cool_feature
 ```
 After completing these steps, you can open a pull request to propose your changes to the main project.
 
+Please adhere to the [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow) guidelines in this repository and ensure that branch names comply with the established naming conventions.
+
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 <!-- LICENSE -->
