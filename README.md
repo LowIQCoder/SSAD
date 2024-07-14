@@ -26,9 +26,9 @@
     <li>
       <a href="#about-graphit">About Graphit</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
         <li><a href="#project-demonstration">Demonstration</a></li>
         <li><a href="#user-guide">User Guide</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li><a href="#launch-api">Launch API</a></li>
