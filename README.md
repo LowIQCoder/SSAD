@@ -112,9 +112,9 @@ export POSTGRES_HOST=<Database host>
 export POSTGRES_PORT=<Database port>
 
 # For API
-API_RUN_HOST=<API host>
-API_RUN_PORT=<API port>
-API_N_WORKERS=<Workers number>
+export API_RUN_HOST=<API host>
+export API_RUN_PORT=<API port>
+export API_N_WORKERS=<Workers number>
 
 # For static files
 export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
