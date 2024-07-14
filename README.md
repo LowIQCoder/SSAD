@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://gitlab.pg.innopolis.university/team20/llm-rosalind">
-    <img src="images/logo.png" alt="Logo">
+    <img src="logo.svg" alt="Logo">
   </a>
 
   <p align="center">
