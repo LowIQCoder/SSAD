@@ -56,9 +56,13 @@ Some features of Graphit:
 
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
+___
+
 ### Project Demonstration 
 
 To explore Graphit, you can visit [this link](http://10.100.30.244:1001) for personal testing, or alternatively, watch a [demonstration video](http://10.100.30.244:1001).
+
+___
 
 ### User Guide
 
@@ -102,6 +106,8 @@ To add a new course, users can select one of the following methods:
 
 * **Manual** - manually create the entire course
 * **AI-assisted** - upload a PDF document to a special LLM, which will automatically generate the course after processing the document
+
+___
 
 ### Built With
 
