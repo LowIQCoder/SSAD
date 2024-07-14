@@ -45,7 +45,7 @@
 ## About Graphit
 
 
-Graphit offers a distinctive approach to studying and developing new courses.
+Graphit provides a unique method for creating and studying new courses. This project is integrated within the InnoDataHub ecosystem.
 
 Some features of Graphit:
 
@@ -62,7 +62,46 @@ To explore Graphit, you can visit [this link](http://10.100.30.244:1001) for per
 
 ### User Guide
 
+#### Main Page
 
+On the main page of our project, users can access the following features:
+
+* **Popular section** showcasing popular courses
+* **Favorite section** displaying favorite courses
+* **Search bar** for finding specific courses
+* **Add new course** button located next to the search bar (explained <a href="#adding-new-course">later</a> in this guide)
+
+#### Course Card
+
+Each course card includes:
+
+* The course's **name** and **logo**
+* The number of **assigned users**
+* The **duration** to complete the course
+* A **Pin** button to mark courses as favorites
+
+#### Course Description Page
+
+To enroll in a course, users can select any course displayed on the main page or search for a specific one using the search bar.
+
+On the course description page, users can view **detailed information** about the selected course and **register** for it. Additionally, users can pin the course using the designated **pin button**.
+
+#### Course Page
+
+After successfully registering for a course, users can choose topic from **topic tree** or select a required topic from the **topic list**.
+
+Each topic includes **theory** and **tasks** with various answer formats:
+
+* Single choice - only one correct answer
+* Multiple choice - one or more correct answers
+* Coding task - users write a solution in a designated window
+
+#### Adding New Course
+
+To add a new course, users can select one of the following methods:
+
+* **Manual** - manually create the entire course
+* **AI-assisted** - upload a PDF document to a special LLM, which will automatically generate the course after processing the document
 
 ### Built With
 
