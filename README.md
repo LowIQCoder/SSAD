@@ -157,8 +157,8 @@ export POSTGRES_HOST=<Database host>
 export POSTGRES_PORT=<Database port>
 
 # For API
-export API_RUN_HOST=<API host>
-export API_RUN_PORT=<API port>
+export API_RUN_HOST=localhost
+export API_RUN_PORT=6660
 export API_N_WORKERS=<Workers number>
 
 # For static files
@@ -183,7 +183,7 @@ python3 -m src.backend.api
 
 Once the API is running, you can access its documentation and available endpoints at:
 
-`http://<API host>:<API port>/docs`
+http://localhost:6660/docs
 
 ## Launch frontend
 
