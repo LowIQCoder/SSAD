@@ -111,14 +111,17 @@ export POSTGRES_PASSWORD=<Database password>
 export POSTGRES_HOST=<Database host>
 export POSTGRES_PORT=<Database port>
 
+# For API
+API_RUN_HOST=<API host>
+API_RUN_PORT=<API port>
+API_N_WORKERS=<Workers number>
+
 # For static files
 export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
-export STATIC_FILES_DOWNLOAD_PATH=/files/upload
+export STATIC_FILES_DOWNLOAD_PATH=/images
 
 # For ML
 export LLM_ENDPOINT=<Outlines serve LLM endpoint>
-export MILVUS_ENDPOINT=<Milvus endpoint>
-export EMBEDDER_ENDPOINT=<Embedder endpoint>
 ```
 
 After, to install all required packages, run:
