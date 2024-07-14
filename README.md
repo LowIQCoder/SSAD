@@ -138,7 +138,7 @@ python3 -m src.backend.api
 
 Once the API is running, you can access its documentation and available endpoints at:
 
-http://<API host>:<API host>/docs
+`http://<API host>:<API port>/docs`
 
 ## Launch frontend
 
