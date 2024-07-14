@@ -47,12 +47,13 @@
 
 Graphit offers a distinctive approach to studying and developing new courses.
 
-Reasons to consider Graphit:
+Some features of Graphit:
 
 - Automatic course creation from various sources utilizing LLM
 - An intuitive and visually appealing interface
 - The possibility to find a variety of courses on different topics
 - Different levels of difficulty within the same course
+
 <p align="right"><a href="#readme-top">⬆️</a></p>
 
 ### Project Demonstration 
