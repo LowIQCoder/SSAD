@@ -118,7 +118,7 @@ API_N_WORKERS=<Workers number>
 
 # For static files
 export STATIC_FILES_UPLOAD_PATH=<Path to folder with static files>
-export STATIC_FILES_DOWNLOAD_PATH=/images
+export STATIC_FILES_DOWNLOAD_PATH=/files/upload
 
 # For ML
 export LLM_ENDPOINT=<Outlines serve LLM endpoint>
